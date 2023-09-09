@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:quotes_app/screens/Like.dart';
-import 'package:quotes_app/screens/allquotes.dart';
-import 'package:quotes_app/screens/homescreen.dart';
+
+import 'view/screens/Like.dart';
+import 'view/screens/allquotes.dart';
+import 'view/screens/homescreen.dart';
 
 void main() {
   runApp(
